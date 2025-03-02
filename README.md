@@ -26,7 +26,7 @@ Restart your Mac or log out and back in for the changes to take effect.
 9. [Docker](https://www.docker.com/)
 10. [GIMP](https://www.gimp.org/)
 11. [Mac Mouse Fix](https://macmousefix.com/)  
-12. [Microsoft Office (from App Store)]
+12. Microsoft Office (from App Store)
 13. [Minecraft Launcher](https://www.minecraft.net/)
 14. [OBS](https://obsproject.com/)
 15. [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)

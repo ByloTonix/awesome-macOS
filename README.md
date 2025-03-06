@@ -34,5 +34,4 @@
 24. [Visual Studio Code](https://code.visualstudio.com/)
 25. [WireGuard](https://www.wireguard.com/)
 26. [Zoom](https://zoom.us/)  
-22. **Яндекс Музыка**  
-    [https://music.yandex.ru/](https://music.yandex.ru/)  
+27. [Яндекс Музыка](https://music.yandex.ru/)  

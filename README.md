@@ -1,16 +1,9 @@
-# awesome-macOS
-My attempt to make MacOS more convenient
----
-By default, when you hold down a letter key on macOS Sequoia, a small pop-up window appears, allowing you to choose a character with accents or special symbols. To change it, do the following:
-
-## Disable the Character Accent Selection
+# awesome-macOS - my attempt to make MacOS more convenient
+### Disable the Character Accent Selection (logout\reboot required)
 ```defaults write -g ApplePressAndHoldEnabled -bool false```
 
-Restart your Mac or log out and back in for the changes to take effect.
-
-## Re-enabling the Character Accent Selection
-
-```defaults write -g ApplePressAndHoldEnabled -bool true```
+### Reset Spotlight Search Window Position
+```defaults delete com.apple.Spotlight```
 
 
 # List of Installed Applications

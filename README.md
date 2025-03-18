@@ -5,6 +5,15 @@
 ### Reset Spotlight Search Window Position
 ```defaults delete com.apple.Spotlight```
 
+### Clean Cached Files
+```sudo purge```
+
+### Executing Privileged Commands Without Entering A Password
+```sudo visudo /etc/sudoers.d/010_NICKNAME-nopasswd```
+
+```NICKNAME ALL=(ALL) NOPASSWD: ALL```
+
+where `NICKNAME` should be replaced with your user nickname
 
 # List of Installed Applications
 
